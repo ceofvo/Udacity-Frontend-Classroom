@@ -1,4 +1,4 @@
-#Udacity Frontend Nanodegree Classroom
+# Udacity Frontend Nanodegree Classroom
 
 This repo includes the live coding portion of my lecture for Udacity Frontend Nanodegree students.
 
